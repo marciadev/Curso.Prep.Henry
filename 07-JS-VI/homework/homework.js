@@ -53,10 +53,7 @@ function filter(array) {
   //Filtrar todos los elementos del array que comiencen con la letra "a".
   //Devolver un nuevo array con los elementos que cumplen la condición
   //Tu código:
-  return array.filter(
-    //(s) => s.startsWith('a')
-    (bija) => bija[0]=='a'
-  )
+  return array.filter((s) => s.startsWith('a'))
 }
 
 // No modificar nada debajo de esta línea
