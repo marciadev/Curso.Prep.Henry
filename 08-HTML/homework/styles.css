@@ -1,0 +1,17 @@
+h1 {
+    color: deeppink;
+}
+img {
+width: 70%;
+}
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background: blue;
+    padding: 50px;
+    border: 5px solid rgb(10, 238, 208);
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
